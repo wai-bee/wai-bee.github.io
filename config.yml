@@ -1,0 +1,108 @@
+baseURL : 'http://example.org/'
+title: Yoshini's Portfolio
+paginate: 10
+theme: "PaperModX"
+
+
+params:
+    profileMode:
+        enabled: true
+        Title: "Hi! I am Yoshini 👋" # optional default will be site title
+        subtitle: "I hunt aymptotically free quarks"
+        imageUrl: "/img/particles.webp" # optional
+        imageTitle: "" # optional
+        imageWidth: 300 # custom size
+        imageHeight: 300 # custom size
+        buttons:
+        - name : "Resume"
+          url: /pdfs/CV_Yoshini.pdf
+        - name : Tags 
+          url: /tags/
+        - name : Categories
+          url : /categories/
+
+    #socialIcons: # optional
+    #  - name: "ResearchGate"
+    #    url: "https://www.researchgate.net/profile/Yoshini-Bailung?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+
+        defaultTheme: auto # dark, light
+    
+    disableThemeToggle: false
+    hideFooter: false
+    ShowReadingTime: true
+    ShowShareButtons: true
+    EnableImageZoom: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowAuthor: true
+    ShowCommentNumber: false
+    ShowCodeCopyButtons: true
+    ShowWordCount: true
+    ShowRssButtonInSectionTermList: false
+    UseHugoToc: false
+    disableSpecial1stPost: true
+    disableScrollToTop: false
+    comments: false
+    hidemeta: false
+    hideSummary: false
+    showtoc: true
+    TocSide: 'left'
+    tocopen: true  
+    fuseOpts:
+      isCaseSensitive: false
+      shouldSort: true
+      location: 0
+      distance: 1000
+      threshold: 0.4
+      minMatchCharLength: 0
+
+    assets:
+      disableHLJS: true # to disable highlight.js
+      disableFingerprinting: true
+      favicon: "favicon.ico"
+      appleTouchIcon: "favicon-152.png"
+
+menu:
+  main:
+    - identifier: publications
+      name : publications
+      url : /publications/
+      weight : 20
+    
+    - identifier : search
+      name : search
+      url: /search/
+      weight : 40
+  
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight : 30
+
+    - identifier : about
+      name : about me
+      url : /about/
+      weight : 10
+
+
+
+outputs:
+    home:
+        - HTML
+        - CSS
+        - JSON # is necessary
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+markdown: kramdown
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    style: dracula
+    lineNos: false
+    noClasses: false 

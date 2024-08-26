@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "CreateTTree(1).C": "cpp",
+        "plotpythia.C": "cpp",
+        "nch_percentageangan.C": "cpp",
+        "projections.C": "cpp",
+        "plotspectra.C": "cpp",
+        "plotb2.C": "cpp",
+        "coalfac.C": "cpp"
+    }
+}
