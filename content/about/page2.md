@@ -3,7 +3,7 @@ title: "Skills"
 date: 2024-08-07T00:26:50+05:30
 draft: false
 tags: ["c++","python","hugo","html","css","alice","pythia","ampt","smash","urqmd","godot","reaper"]
-categories: ["research","skills","hobbbies"]
+categories: ["research","skills","hobbies"]
 weight: 20
 cover:
     image: 
