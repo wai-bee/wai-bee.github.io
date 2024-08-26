@@ -1,7 +1,7 @@
 baseURL : 'http://example.org/'
 title: Yoshini's Portfolio
 paginate: 10
-theme: "PaperModX"
+theme: "hugo-PaperModX"
 
 
 params:
