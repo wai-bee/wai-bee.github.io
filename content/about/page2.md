@@ -6,7 +6,7 @@ tags: ["c++","python","hugo","html","css","alice","pythia","ampt","smash","urqmd
 categories: ["research","skills","hobbies"]
 weight: 20
 cover:
-    image: 
+    image: "/img/skillsexpertise.png"
 summary : "Proficiency and expertise"
 ---
 
@@ -42,7 +42,8 @@ summary : "Proficiency and expertise"
 - **Godot:** Proficient in creating 2D and 3D games, with experience in scripting, physics, and animation.
 
 ### Audio Editing
-- **Audacity:** Editing and producing audio tracks for podcasts, videos, and music.
 - **Reaper:** Composing and arranging music using digital audio workstations.
+- **Audacity:** Editing and producing audio tracks for podcasts, videos, and music.
+
 
 ---

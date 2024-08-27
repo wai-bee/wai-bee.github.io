@@ -5,6 +5,9 @@ draft: false
 tags: ["HF","LN"]
 categories: ["research","work"]
 weight: 10
+cover:
+    image: "/img/researchinterest.png"
+    
 summary : "Short summary of my research interests"
 ---
 

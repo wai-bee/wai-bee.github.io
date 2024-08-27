@@ -34,7 +34,7 @@ or
 or
 <a href="/pdfs/proceedings/DAE2021.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 4. Production of light nuclei in heavy-ion collisions via a coalescence mechanism
+#### 4. Measurements of heavy-flavor production as a function of multiplicity with ALICE at the LHC
 
 ##### Authors: Yoshini Bailung, for the ALICE Collaboration
 

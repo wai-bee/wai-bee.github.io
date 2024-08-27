@@ -15,15 +15,21 @@ params:
         imageHeight: 300 # custom size
         buttons:
         - name : "Resume"
-          url: /pdfs/CV_Yoshini.pdf
+          url: /pdfs/Resume.pdf
         - name : Tags 
           url: /tags/
         - name : Categories
           url : /categories/
 
-    #socialIcons: # optional
-    #  - name: "ResearchGate"
-    #    url: "https://www.researchgate.net/profile/Yoshini-Bailung?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+    socialIcons: # optional
+      - name: "Github"
+        url: "https://github.com/wai-bee"
+      - name: "GoogleScholar"
+        url: "https://scholar.google.com/citations?hl=en&user=VDI8EVoAAAAJ"
+      - name: "ResearchGate"
+        url: "https://www.researchgate.net/profile/Yoshini-Bailung?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImhvbWUiLCJwYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
+      - name: "Gmail"
+        url: "mailto:yoshini.bailung.1@gmail.com"
 
         defaultTheme: auto # dark, light
     
