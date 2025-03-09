@@ -13,7 +13,7 @@ summary: "Articles accepted and published in Nuclear Physics journals by Elsevie
 
 #### 1. Exploring light nuclei production at RHIC and LHC energies with A Multi-Phase Transport model and a coalescence afterburner
 
-#### Authors: Yoshini Bailung, Neha Shah, Ankhi Roy
+##### Authors: Yoshini Bailung, Neha Shah, Ankhi Roy
 
 ##### Abstract
 
@@ -25,7 +25,7 @@ or
 
 #### 2. Effect of various particlization scenarios on anisotropic flow and particle production using UrQMD hybrid model
 
-#### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
+##### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
 
 ##### Abstract
 

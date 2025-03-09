@@ -10,9 +10,21 @@ cover:
 summary: "Articles accepted and published in the Physical Review journals by the American Physical Society"
 ---
 
-#### 1. Searching for enhancement in coalescence of in-jet (anti-)deuterons in proton-proton collisions
+#### 1. Probing coalescence of light nuclei via femtoscopy and azimuthal anisotropies
 
-#### Authors: Yoshini Bailung, Neha Shah, Ankhi Roy
+##### Authors: Yoshini Bailung, Sudhir Pandurang Rode, Neha Shah, Ankhi Roy
+
+##### Abstract
+
+The production mechanism of light nuclei in heavy-ion collisions is vital to understanding the intricate details of nucleon-nucleon interactions. The coalescence of nucleons is a well-known mechanism that attempts to explain the production mechanism of these light clusters. This work investigates the formation mechanism of these nucleon clusters with a combination of coalescence and femtoscopy of nucleons and nuclei. It is achieved by appending a coalescence and correlation afterburner (CRAB) to the SMASH transport model. To have a proper view of the anisotropy of light nuclei clusters, a mean-field approach to SMASH is applied. The anisotropic coefficients of various light nuclei clusters are calculated and compared to experimental measurements. To incorporate hydrodynamics into the picture, the anisotropic measurements are completed in a hybrid SMASH+vHLLE mode. In both approaches, the femtoscopy of nucleons and light nuclei is performed, reported with CRAB, and compared to the latest experimental measurements. An insight into cluster formation time is drawn by extracting the emission source size with the Lednick\'y-Lyuboshits (LL) model.
+
+[DOI](https://doi.org/10.1103/PhysRevC.111.014911)
+or
+<a href="/pdfs/papers/PhysRevC.111.014911.pdf" class="btn btn-primary" target="_blank">Read it here</a>
+
+#### 2. Searching for enhancement in coalescence of in-jet (anti-)deuterons in proton-proton collisions
+
+##### Authors: Yoshini Bailung, Neha Shah, Ankhi Roy
 
 ##### Abstract
 
@@ -22,9 +34,9 @@ Recent measurements from ALICE report that "in-jet" nucleons carry a higher prob
 or
 <a href="/pdfs/papers/PhysRevC.109.044908.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 2. Jet fragmentation via azimuthal angular correlations of heavy flavor decay electrons in pp, p--Pb, and Pb--Pb collisions using PYTHIA8+Angantyr calculations
+#### 3. Jet fragmentation via azimuthal angular correlations of heavy flavor decay electrons in pp, p--Pb, and Pb--Pb collisions using PYTHIA8+Angantyr calculations
 
-#### Authors: Ravindra Singh, Yoshini Bailung, Sumit Kumar Kundu, Ankhi Roy
+##### Authors: Ravindra Singh, Yoshini Bailung, Sumit Kumar Kundu, Ankhi Roy
 
 ##### Abstract
 
@@ -36,9 +48,9 @@ This article studies the azimuthal angular correlations of electrons from heavy 
 or
 <a href="/pdfs/papers/PhysRevC.107.024911.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 3. Dynamics of particle production in Pb--Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV using PYTHIA8 Angantyr model
+#### 4. Dynamics of particle production in Pb--Pb collisions at $\sqrt{s_{NN}}$ = 2.76 TeV using PYTHIA8 Angantyr model
 
-#### Authors: Ravindra Singh, Yoshini Bailung, Ankhi Roy
+##### Authors: Ravindra Singh, Yoshini Bailung, Ankhi Roy
 
 ##### Abstract
 
@@ -48,9 +60,9 @@ We study the dynamics of identified, strange, and multi-strange particle product
 or
 <a href="/pdfs/papers/PhysRevC.105.035202.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 4. Dependence of anisotropic flow of net-protons on particlization model for various nuclear equation of state
+#### 5. Dependence of anisotropic flow of net-protons on particlization model for various nuclear equation of state
 
-#### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
+##### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
 
 ##### Abstract
 
