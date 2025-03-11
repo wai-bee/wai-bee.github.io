@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My moodtracker app</title>
+        <link rel = "stylesheet" type = "text/css" href = "style.css"/>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300">
+
+        <!-- Rest of the meta data will go in here -->
+    </head>
+
+    <body>
+      <div id="appname">
+        <h2>How are you feeling today?</h2>
+            </div>
+           <div id="menu-nav">
+            <div id="navigation-bar">
+              <ul>
+                <li><button class="mood-btn" data-mood="happy">😊<p>Happy</p></button></li>
+                <li><button class="mood-btn" data-mood="excited">🤩<p>Excited</p></button></li>
+                <li><button class="mood-btn" data-mood="relaxed">😌<p>Relaxed</p></button></li>
+                <li><button class="mood-btn" data-mood="sad">😞<p>Sad</p></button></li>
+                <li><button class="mood-btn" data-mood="tired">😓<p>Tired</p></button></li>
+                <li><button class="mood-btn" data-mood="angry">😠<p>Angry</p></button></li>
+              </ul>
+            </div>
+       </div>
+       <div id = "save">
+        <button id="save-btn">Save</button>
+      </div>
+      <div id = "erase">
+        <button id="erase-btn">Erase</button>
+      </div>
+      <div id="save-message" class="hidden"></div>
+
+
+      <div id="save-message" class="hidden"></div>
+
+      <script src="script.js"></script>
+    </body>
+</html>

@@ -20,6 +20,8 @@ Music is a big part of my life. I grew up with rock and metal music, and now a b
 
 I love playing and developing video games. I like the idea of being creative in designing independent and small scale indie games. I’m currently learning game development and protyping with [Godot](https://godotengine.org/). Check out my published (under continous development 😉) game on [itch.io](https://wai-bee-11.itch.io/save-the-fox)
 
+Developed a personalized moodtracker. Check it out <a href="/moodtracker/Page1.html" class="btn btn-primary" target="_blank">here</a>
+
 ### ☕️
 
 Big coffee addict and an afficionado. I love brewing fresh coffee, with my favorite blend of beans all over the world.
