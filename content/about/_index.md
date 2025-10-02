@@ -8,7 +8,7 @@ url : /about/
 {{< figure src="/img/croppedout.png" width="350">}}
 
 ### <center>Hi there! Welcome to my digitial corner.</center>
-### <center>I'm Yoshini Bailung, a Ph.D. scholar at the Indian Institute of Technology Indore, India.</center>
+### <center>I'm Yoshini Bailung, a Post-Doctoral Fellow at the Institut de Physique des Deux Infinis (IP2I) de Lyon.</center>
 
 </center>
 

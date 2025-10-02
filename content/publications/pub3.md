@@ -34,3 +34,12 @@ We discuss the effect of various particlization scenarios available in the hybri
 [DOI](https://linkinghub.elsevier.com/retrieve/pii/S0375947422001981)
 or
 <a href="/pdfs/papers/1-s2.0-S0375947422001981-main.pdf" class="btn btn-primary" target="_blank">Read it here</a>
+
+#### 3. An impact of parton distribution functions on open heavy flavour azimuthal angular correlations in Pb-Pb collisions at $\sqrt{s_{NN}}$ = 5.5 TeV
+
+##### Authors: Swapnesh Khade, Ravindra Singh, Yoshini Bailung, Ankhi Roy
+##### Abstract
+
+In this paper, we investigate the impact of modern free parton distribution functions and nuclear parton distribution functions on the azimuthal angular correlation of open heavy flavour hadrons in Pb–Pb collisions at \\(\sqrt{s_{NN}}\\) = 5.5 TeV using PYTHIA8 + Angantyr model. The method involves a transverse momentum (\\(p_{\mathrm{T}}\\)) differential assessment of azimuthal angular correlations between prompt \\(\mathrm{D^{0}}-\mathrm{\bar{D}^{0}}\\) and \\(\mathrm{B^{0}}-\mathrm{\bar{B}^{0}}\\). By analysing the -dependent behaviour of these correlations, we probe the interplay between different production mechanisms and assess the impact of parton distribution functions on heavy flavour hadron production dynamics. Our results indicate that nuclear parton distribution functions significantly modify the azimuthal correlation distribution's near-side and away-side peaks compared to the default PYTHIA8 baseline, particularly at low \\(p_{\mathrm{T}}\\). The near-side double-peak structure suggests contributions from next-to-leading order (NLO) processes, such as gluon splitting, and its presence is strongly correlated with the number of hard multi-parton interactions. Additionally, by quantitatively comparing the change in correlation widths across various PDF settings, we comment on the role of nuclear parton distribution functions on the broadening of correlation distribution in heavy-ion collisions. This comprehensive study of azimuthal correlations enhances our understanding of nuclear collisions's initial-state conditions and heavy flavour production dynamics.
+
+[DOI](https://www.sciencedirect.com/science/article/abs/pii/S0375947425002064?via%3Dihub)

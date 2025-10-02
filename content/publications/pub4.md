@@ -36,15 +36,21 @@ or
 or
 <a href="/pdfs/proceedings/pos-lhcp.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 4. Forward Physics of \\(\mathrm{D}^{0}\\) meson: A Study of Production and Angular Correlations in pp and p-Pb Collisions
+#### 4. Effect of initial states on heavy meson azimuthal correlations
 
 ##### Authors: Swapnesh Khade, Yoshini Bailung, Rashi Gupta, Ravindra Singh, Ankhi Roy
+
+[DOI](https://www.sciencedirect.com/science/article/pii/S3050480525001505?via%3Dihub)
+
+#### 5. Forward Physics of \\(\mathrm{D}^{0}\\) meson: A Study of Production and Angular Correlations in pp and p-Pb Collisions
+
+##### Authors: Swapnesh Khade, Ravindra Singh, Yoshini Bailung, Ankhi Roy
 
 [More details](https://inspirehep.net/files/a61dcd2a36373330e723994a517c72e1)
 or
 <a href="/pdfs/proceedings/DAE2024_1.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 5. A new look into \\(ep\\) collisions with event shape variables using two-particle correlations
+#### 6. A new look into \\(ep\\) collisions with event shape variables using two-particle correlations
 
 ##### Authors: Rohit Kaundal, Yoshini Bailung, Swapnesh Khade, Ankhi Roy
 
@@ -52,7 +58,7 @@ or
 or
 <a href="/pdfs/proceedings/DAE2024_2.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
-#### 6. Dependence of anisotropic flow and particle production on particlization models and nuclear equation of state
+#### 7. Dependence of anisotropic flow and particle production on particlization models and nuclear equation of state
 
 ##### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
 
@@ -61,7 +67,7 @@ or
 <a href="/pdfs/proceedings/hotqcdmatter.pdf" class="btn btn-primary" target="_blank">Read it here</a>
 
 
-#### 7. Dependence of anisotropic flow of net-protons on particlization model for various nuclear equation of state
+#### 8. Dependence of anisotropic flow of net-protons on particlization model for various nuclear equation of state
 
 ##### Authors: Sumit Kumar Kundu, Yoshini Bailung, Sudhir Pandurang Rode, Partha Pratim Bhaduri, Ankhi Roy
 
