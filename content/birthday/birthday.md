@@ -9,10 +9,14 @@ layout: "single"
 
 <!-- Slideshow -->
 <div class="slideshow">
+  <img class="slides" src="/bday/PIC0.png">
   <img class="slides" src="/bday/PIC1.png">
   <img class="slides" src="/bday/PIC2.png">
   <img class="slides" src="/bday/PIC3.png">
   <img class="slides" src="/bday/PIC4.JPG">
+  <img class="slides" src="/bday/PIC5.png">
+  <img class="slides" src="/bday/PIC6.png">
+  <img class="slides" src="/bday/PIC7.png">
 </div>
 
 <h1 class="main-title">❤️ Happy Birthday Lovie ❤️</h1>
