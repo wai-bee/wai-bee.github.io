@@ -1,0 +1,259 @@
+body {
+  background: linear-gradient(to bottom, #A3B18A, #B2AC88);
+  text-align: center;
+  font-family: "Verdana", "Geneva", sans-serif;
+  overflow-x: hidden;
+}
+
+#confetti-canvas {
+  z-index: 5;
+}
+
+#fireworks-canvas {
+  z-index: 6;
+}
+
+#confetti-canvas,
+#fireworks-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.main-title {
+  font-size: 3rem;
+  color: white;
+  animation: glow 2s infinite alternate;
+}
+
+.sub-title {
+  font-size: 2rem;
+  color: white;
+  animation: glow 2s infinite alternate;
+}
+
+@keyframes glow {
+  from { text-shadow: 0 0 10px #fff; }
+  to { text-shadow: 0 0 20px #543b43; }
+}
+
+#birthday-page {
+  text-align: center;
+  margin-top: 40px;
+  position: relative;
+  z-index: 10;
+}
+
+/* Slideshow */
+.slideshow {
+  width: 220px;
+  height: 280px;
+  margin: 0 auto 40px auto;
+  position: relative;
+}
+
+.slideshow img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.slides {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.slides.active {
+  display: block;
+}
+
+/* Cake */
+.cake {
+  position: relative;
+  width: 250px;
+  height: 200px;
+  margin: 60px auto;
+}
+
+/* Plate */
+.plate {
+  position: absolute;
+  bottom: 0;
+  width: 270px;
+  height: 20px;
+  background: #eee;
+  border-radius: 50%;
+  left: -10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Cake Layers */
+.layer {
+  position: absolute;
+  width: 250px;
+  height: 60px;
+  border-radius: 10px;
+  left: 0;
+}
+
+.layer-bottom {
+  bottom: 20px;
+  background: #d2691e;
+}
+
+.layer-middle {
+  bottom: 70px;
+  background: #ffb6c1;
+}
+
+.layer-top {
+  bottom: 120px;
+  background: #d2691e;
+}
+
+/* Icing */
+.icing {
+  position: absolute;
+  bottom: 150px;
+  width: 250px;
+  height: 40px;
+  background: #fff;
+  border-radius: 50% 50% 0 0;
+}
+
+/* Candles */
+.candles {
+  position: absolute;
+  bottom: 180px;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.candle {
+  width: 10px;
+  height: 40px;
+  background: linear-gradient(to bottom, #fff 50%, #ff69b4 50%);
+  border-radius: 3px;
+  position: relative;
+  cursor: pointer;
+}
+
+/* Flame */
+.flame {
+  width: 12px;
+  height: 18px;
+  background: radial-gradient(circle, yellow 40%, orange 70%);
+  border-radius: 50%;
+  position: absolute;
+  top: -20px;
+  left: -1px;
+  animation: flicker 0.2s infinite alternate;
+}
+
+@keyframes flicker {
+  from { transform: scale(1); }
+  to { transform: scale(1.1); }
+}
+
+
+/* Balloons */
+.balloon {
+  position: absolute;
+  width: 60px;
+  height: 80px;
+  background: red;
+  border-radius: 50% 50% 45% 45%;
+  animation: floatUp 8s linear forwards;
+}
+
+/* balloon knot */
+.balloon::after {
+  content: "";
+  position: absolute;
+  bottom: -10px;
+  left: 25px;
+  width: 10px;
+  height: 10px;
+  background: inherit;
+  transform: rotate(45deg);
+}
+
+/* string */
+.balloon::before {
+  content: "";
+  position: absolute;
+  bottom: -60px;
+  left: 29px;
+  width: 2px;
+  height: 60px;
+  background: white;
+}
+
+/* shine highlight */
+.balloon span {
+  position: absolute;
+  top: 15px;
+  left: 15px;
+  width: 15px;
+  height: 20px;
+  background: rgba(255,255,255,0.5);
+  border-radius: 50%;
+}
+
+@keyframes floatUp {
+  from {
+    transform: translateY(100vh);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-120vh);
+    opacity: 0;
+  }
+}
+
+
+@keyframes float {
+  from { transform: translateY(100vh); }
+  to { transform: translateY(-100vh); }
+}
+
+/* Button */
+.party-btn {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  background: #ff4081;
+  border: none;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+.confetti {
+  position: fixed;
+  width: 8px;
+  height: 12px;
+  top: 50%;
+  left: 50%;
+  opacity: 1;
+  animation: explode 1.5s ease-out forwards;
+}
+
+@keyframes explode {
+  to {
+    transform: translate(var(--x), var(--y)) rotate(720deg);
+    opacity: 0;
+  }
+}

@@ -90,6 +90,11 @@ menu:
       url : /about/
       weight : 10
 
+    - identifier : Your Birthday 🎂 
+      name : A surprise for you
+      url : /birthday/
+      weight : 0
+
 
 
 outputs:
