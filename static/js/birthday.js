@@ -86,7 +86,7 @@ function partyTime() {
   }
 
   // Confetti explosion
-  const colors = ["#ff4d6d", "#ffbe0b", "#3a86ff", "#8338ec", "#06d6a0"];
+  const colors = ["#ff6b81", "#ffc75f", "#3a86ff", "#8338ec", "#06d6a0"];
 
   for (let i = 0; i < 80; i++) {
     const confetti = document.createElement("div");
