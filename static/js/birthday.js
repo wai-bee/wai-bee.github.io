@@ -63,8 +63,14 @@ if (document.querySelectorAll(".flame[style*='opacity: 0']").length ===
     document.querySelectorAll(".flame").length) {
 
   setTimeout(() => {
+
     alert("Make a wish ❤️");
+    // Replace subtitle text
+    const message = document.getElementById("wish-message");
+    message.innerHTML = "Many happy returns of the day Sanchita! May all your wishes come true ✨ <br> Miss you loads. I hope we meet soon <br> I love you so much ❤️ - Yoshi";
+
     startParty();
+
   }, 500);
 }
 

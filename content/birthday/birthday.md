@@ -1,5 +1,5 @@
 ---
-title: "🎂 Surprise Sanchita!! 🎉"
+title: "🎂 Surprise!! 🎉"
 layout: "single"
 ---
 <canvas id="confetti-canvas"></canvas>
@@ -15,21 +15,15 @@ layout: "single"
   <img class="slides" src="/bday/PIC4.JPG">
 </div>
 
-<h1 class="main-title">Happy Birthday My Love ❤️</h1>
-<p class="sub-title">Blow out the candles and make a wish!</p>
+<h1 class="main-title">❤️ Happy Birthday Lovie ❤️</h1>
+<p class="sub-title" id="wish-message">Blow out the candles and make a wish! 🎂</p>
 
 
 
 <!-- Cake -->
 <div class="cake">
-  <div class="plate"></div>
-
-  <div class="layer layer-bottom"></div>
-  <div class="layer layer-middle"></div>
-  <div class="layer layer-top"></div>
-
-  <div class="icing"></div>
-
+  <img src="/bday/birthdaycake.png" class="cake-img">
+  
   <div class="candles">
     <div class="candle" onclick="blowCandle(this)">
       <div class="flame"></div>
