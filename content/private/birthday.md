@@ -6,7 +6,7 @@ layout: "single"
 <script>
 const password = "TinyToblerone";
 
-const userInput = prompt("Enter the password to view this page:");
+const userInput = prompt("Enter Password:");
 
 if (userInput !== password) {
   document.body.innerHTML = "<h1>Access Denied</h1>";
