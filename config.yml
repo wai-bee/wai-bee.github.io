@@ -90,12 +90,6 @@ menu:
       url : /about/
       weight : 10
 
-    - identifier : Private 
-      name : Private
-      url : /private/
-      weight : 0
-
-
 
 outputs:
     home:
