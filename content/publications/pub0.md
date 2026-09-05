@@ -10,14 +10,19 @@ cover:
 summary : "Reports of data analysis performed within the ALICE Collaboration@CERN"
 
 ---
+#### 1. Measurement of b-jet cross-section using Boosted Decision Trees in proton—proton collisions at $\sqrt{s} = 13.6$ TeV
 
-#### 1. Measurement of D-meson (D<sup>0</sup>, D<sup>+</sup> , D<sup>*+</sup>) production as a function of event shapes in proton--proton collisions at $\sqrt{s} = 13$ TeV
+##### Authors: Yoshini Bailung, Clement Lotteau, Cvetan Cheshkov
+
+[More details](https://alice-notes.web.cern.ch/node/1786)
+
+#### 2. Measurement of D-meson (D<sup>0</sup>, D<sup>+</sup> , D<sup>*+</sup>) production as a function of event shapes in proton--proton collisions at $\sqrt{s} = 13$ TeV
 
 ##### Authors: Yoshini Bailung, Randhir Singh, Marco Giacalone 
 
 [More details](https://alice-notes.web.cern.ch/node/1240)
 
-#### 2. Measurement of D-meson (D<sup>0</sup>, D<sup>+</sup> , D<sup>*+</sup>) production versus charged particle multiplicity in proton-proton collisions at $\sqrt{s} = 13$ TeV
+#### 3. Measurement of D-meson (D<sup>0</sup>, D<sup>+</sup> , D<sup>*+</sup>) production versus charged particle multiplicity in proton-proton collisions at $\sqrt{s} = 13$ TeV
 
 ##### Authors: Yoshini Bailung, Randhir Singh, Marco Giacalone 
 

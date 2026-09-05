@@ -23,7 +23,7 @@ params:
 
     socialIcons: # optional
       - name: "Github"
-        url: "https://github.com/wai-bee"
+        url: "https://github.com/YoshiniBailung"
       - name: "GoogleScholar"
         url: "https://scholar.google.com/citations?hl=en&user=VDI8EVoAAAAJ"
       - name: "ResearchGate"

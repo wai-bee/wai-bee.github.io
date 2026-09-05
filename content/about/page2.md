@@ -11,38 +11,28 @@ summary : "Proficiency and expertise"
 ---
 
 ### Programming Languages
-- **C++:** Proficient in writing clean, efficient code for physics and numerical simulations, and data analysis.
-- **python:** Proficient in writing clean, efficient code for data analysis, and Machine Learning.
-- **Fortran:** Proficient in writing fast and effective codes for physics simulations.
+- **C/C++, python, Fortran, shell** 
 
 ### Data Analysis 
 - **[ROOT](https://root.cern/):** Expert in analysis, manipulation, and visulization with CERN's centralized tool for analysis 
-- **[AliROOT](https://github.com/alisw/AliRoot) and [AliPhysics](https://github.com/alisw/AliPhysics):** Specialized tool for ALICE experimental data analysis
-- **Pandas & NumPy:** Analyzing and manipulating large datasets for insights and reporting.
-- **Matplotlib & Seaborn:** Visualizing data to communicate trends and patterns.
-
+- **[O2](https://github.com/AliceO2Group/AliceO2) and [O2Physics](https://github.com/AliceO2Group/O2Physics):** Specialized tool for analysis of ALICE Run-3 data
+- **[AliPhysics](https://github.com/alisw/AliRoot) and [AliPhysics](https://github.com/alisw/AliPhysics):** Specialized tool for analysis of ALICE Run-2 data
+- **Pandas, NumPy, Matplotlib & Seaborn:** Analyzing and manipulating large datasets. Visualization
 
 ### Specialised Physics Packages
 - **[PYTHIA8](https://www.pythia.org/):** Primary tool for simulating collision experiments. 
-- **[AMPT](https://myweb.ecu.edu/linz/ampt/):** Modern transport model for heavy-ion collisions, favorable at high collision energies
-- **[UrQMD](https://itp.uni-frankfurt.de/~bleicher/index.html?content=urqmd) and [SMASH](https://smash-transport.github.io/):** Microscopic transport models for heavy-ion collisions, particularly at low collision energies
+- **[AMPT](https://myweb.ecu.edu/linz/ampt/), [SMASH](https://smash-transport.github.io/), [UrQMD](https://itp.uni-frankfurt.de/~bleicher/index.html?content=urqmd):** Microscopic transport models for heavy-ion collisions
 - **[Crab](https://web.pa.msu.edu/people/pratts/freecodes/crab/home.html):** Correlation afterburner, required for femtoscopy analysis
 
+### Personal projects
+- **[b-jet pipeline](https://github.com/YoshiniBailung/b-jet-analysis-pipeline):** Python/ML workflow for BDT training, validation, template construction, flavor template fitting for post processing, template fitting
+- **[COALA : COALescence Afterburner](https://github.com/YoshiniBailung/coala):** Event generator independent afterburner with phase-space and Wigner coalescence for deuteron, triton and helium-3 production.
 
-### Web Development
-- **[Hugo](https://gohugo.io/):** Skilled in static site development
-- **HTML5 and CSS:** Expertise in building responsive and accessible web pages, with a deep understanding of modern web standards and best practices.
+### Web Development, Typesetting
+- **Hugo, HTML5, CSS, javascript** 
+- **LaTeX, Markdown** 
 
-### Typesetting
-- **LaTeX:** Proficient in creating well-structured academic documents, including research papers, theses, and reports, with precise control over formatting.
-- **Markdown:** Skilled in using Markdown for simple and clean text formatting in documents, websites, and documentation.
-
-### Game Development
-- **[Godot](https://godotengine.org/):** Proficient in creating 2D and 3D games, with experience in scripting, physics, and animation.
-
-### Audio Editing
-- **[Reaper](https://www.reaper.fm/):** Composing and arranging music using digital audio workstations.
-- **[Audacity](https://www.audacityteam.org/):** Editing and producing audio tracks for podcasts, videos, and music.
-
+### Others
+- **[Godot](https://godotengine.org/), [Reaper](https://www.reaper.fm/), [Audacity](https://www.audacityteam.org/)**
 
 ---
